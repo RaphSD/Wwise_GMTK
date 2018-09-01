@@ -4,6 +4,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	2734754760	Play_Magnet			\Default Work Unit\Play_Magnet	
 	3465618802	Play_Bounce			\Default Work Unit\Play_Bounce	
 	3689126666	Play_Jump			\Default Work Unit\Play_Jump	
+	4215300671	Play_NoJump			\Default Work Unit\Play_NoJump	
 
 Effect plug-ins	ID	Name	Type				Notes
 	1588715066	Echoes_Linear	Wwise Delay			
@@ -13,6 +14,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	10167498	BOUNCE-006	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-006_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-006		13411
 	61872418	VOICE-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\VOICE-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Voice-Die\VOICE-003		22676
 	103207546	MAGNET-002	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\MAGNET-002_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Magnet\MAGNET-002		12186
+	142493328	NoJump	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\NOJUMP_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\NoJump		15951
 	182415985	MAGNET-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\MAGNET-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Magnet\MAGNET-003		13792
 	266966614	BOUNCE-NOVOICE-002	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-NOVOICE-002_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-NOVOICE-002		8437
 	278489447	BOUNCE-NOVOICE-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-NOVOICE-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-NOVOICE-003		10119

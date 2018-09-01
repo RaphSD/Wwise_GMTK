@@ -73,6 +73,20 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_NoJump" ID="{92ED6ECB-77E2-4401-B4C2-CD06C8405391}">
+					<ChildrenList>
+						<Action Name="" ID="{C6120A70-BCF5-493C-80C4-BCE2CC29EED7}" ShortID="650830029">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="NoJump" ID="{86B9202F-0EC5-4FC0-8425-7427749E2876}" WorkUnitID="{217D670F-8837-43EC-B969-20065DB5C469}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

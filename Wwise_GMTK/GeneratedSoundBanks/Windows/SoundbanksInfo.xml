@@ -24,6 +24,7 @@
 				<Event Id="3465618802" Name="Play_Bounce" ObjectPath="\Events\Default Work Unit\Play_Bounce"/>
 				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump"/>
 				<Event Id="2734754760" Name="Play_Magnet" ObjectPath="\Events\Default Work Unit\Play_Magnet"/>
+				<Event Id="4215300671" Name="Play_NoJump" ObjectPath="\Events\Default Work Unit\Play_NoJump"/>
 				<Event Id="826685355" Name="Play_Voice_Die" ObjectPath="\Events\Default Work Unit\Play_Voice_Die"/>
 				<Event Id="963716355" Name="Play_Voice_Win" ObjectPath="\Events\Default Work Unit\Play_Voice_Win"/>
 			</IncludedEvents>
@@ -43,6 +44,10 @@
 				<File Id="103207546" Language="SFX">
 					<ShortName>MAGNET-002.wav</ShortName>
 					<Path>SFX\MAGNET-002_474E68A2.wem</Path>
+				</File>
+				<File Id="142493328" Language="SFX">
+					<ShortName>NOJUMP.wav</ShortName>
+					<Path>SFX\NOJUMP_474E68A2.wem</Path>
 				</File>
 				<File Id="182415985" Language="SFX">
 					<ShortName>MAGNET-003.wav</ShortName>
