@@ -1,0 +1,9 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3689126666	Play_Jump			\Default Work Unit\Play_Jump	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	387697174	JUMP-004	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\JUMP-004_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Jump\JUMP-004		8742
+	397183337	JUMP-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\JUMP-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Jump\JUMP-003		10683
+	632401361	JUMP-001	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\JUMP-001_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Jump\JUMP-001		10191
+	949605517	JUMP-002	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\JUMP-002_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Jump\JUMP-002		12022
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\</ProjectRoot>
+		<SourceFilesRoot>D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1558441916" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_GMTK</ObjectPath>
+			<ShortName>Soundbank_GMTK</ShortName>
+			<Path>Soundbank_GMTK.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="387697174" Language="SFX">
+					<ShortName>JUMP-004.wav</ShortName>
+					<Path>SFX\JUMP-004_474E68A2.wem</Path>
+				</File>
+				<File Id="397183337" Language="SFX">
+					<ShortName>JUMP-003.wav</ShortName>
+					<Path>SFX\JUMP-003_474E68A2.wem</Path>
+				</File>
+				<File Id="632401361" Language="SFX">
+					<ShortName>JUMP-001.wav</ShortName>
+					<Path>SFX\JUMP-001_474E68A2.wem</Path>
+				</File>
+				<File Id="949605517" Language="SFX">
+					<ShortName>JUMP-002.wav</ShortName>
+					<Path>SFX\JUMP-002_474E68A2.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

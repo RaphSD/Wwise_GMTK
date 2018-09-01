@@ -10,6 +10,10 @@ Driver C refer to the left trigger or the second low actuator
 Driver D refer to the right trigger or the second high actuator</Comment>
 			<ChildrenList>
 				<Folder Name="Android" ID="{578FA26C-7A4A-460D-85F3-7E49517BAE2F}" ShortID="143773509">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="4"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
 					<ChildrenList>
 						<Sound Name="Crossfaders" ID="{BDC769A1-A8BD-4CAC-9C58-5D25C1AA9317}" ShortID="1055879336">
 							<Comment>Vary the game parameter Playback_Rate to increase or decrease speed.</Comment>
