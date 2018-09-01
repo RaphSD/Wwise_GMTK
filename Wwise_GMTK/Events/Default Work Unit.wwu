@@ -17,6 +17,20 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Magnet" ID="{92B7D8F6-2C33-4F99-A1D1-06140E98033D}">
+					<ChildrenList>
+						<Action Name="" ID="{F6AD5AC4-A9BF-4E03-BD50-803A226A8F68}" ShortID="252317370">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Magnet" ID="{B88D1EBE-F8FE-4AA9-87CF-E692578629CF}" WorkUnitID="{217D670F-8837-43EC-B969-20065DB5C469}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

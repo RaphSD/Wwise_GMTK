@@ -1,12 +1,17 @@
 Event	ID	Name			Wwise Object Path	Notes
+	2734754760	Play_Magnet			\Default Work Unit\Play_Magnet	
 	3689126666	Play_Jump			\Default Work Unit\Play_Jump	
 
 Effect plug-ins	ID	Name	Type				Notes
 	1588715066	Echoes_Linear	Wwise Delay			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	103207546	MAGNET-002	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\MAGNET-002_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Magnet\MAGNET-002		12186
+	182415985	MAGNET-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\MAGNET-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Magnet\MAGNET-003		13792
 	387697174	JUMP-004	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\JUMP-004_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Jump\JUMP-004		8742
 	397183337	JUMP-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\JUMP-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Jump\JUMP-003		10683
+	473228714	MAGNET-004	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\MAGNET-004_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Magnet\MAGNET-004		10615
 	632401361	JUMP-001	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\JUMP-001_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Jump\JUMP-001		10191
+	791071215	MAGNET-001	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\MAGNET-001_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Magnet\MAGNET-001		13404
 	949605517	JUMP-002	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\JUMP-002_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Jump\JUMP-002		12022
 

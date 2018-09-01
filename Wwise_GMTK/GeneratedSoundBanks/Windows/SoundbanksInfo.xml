@@ -22,8 +22,17 @@
 			<Path>Soundbank_GMTK.bnk</Path>
 			<IncludedEvents>
 				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump"/>
+				<Event Id="2734754760" Name="Play_Magnet" ObjectPath="\Events\Default Work Unit\Play_Magnet"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="103207546" Language="SFX">
+					<ShortName>MAGNET-002.wav</ShortName>
+					<Path>SFX\MAGNET-002_474E68A2.wem</Path>
+				</File>
+				<File Id="182415985" Language="SFX">
+					<ShortName>MAGNET-003.wav</ShortName>
+					<Path>SFX\MAGNET-003_474E68A2.wem</Path>
+				</File>
 				<File Id="387697174" Language="SFX">
 					<ShortName>JUMP-004.wav</ShortName>
 					<Path>SFX\JUMP-004_474E68A2.wem</Path>
@@ -32,9 +41,17 @@
 					<ShortName>JUMP-003.wav</ShortName>
 					<Path>SFX\JUMP-003_474E68A2.wem</Path>
 				</File>
+				<File Id="473228714" Language="SFX">
+					<ShortName>MAGNET-004.wav</ShortName>
+					<Path>SFX\MAGNET-004_474E68A2.wem</Path>
+				</File>
 				<File Id="632401361" Language="SFX">
 					<ShortName>JUMP-001.wav</ShortName>
 					<Path>SFX\JUMP-001_474E68A2.wem</Path>
+				</File>
+				<File Id="791071215" Language="SFX">
+					<ShortName>MAGNET-001.wav</ShortName>
+					<Path>SFX\MAGNET-001_474E68A2.wem</Path>
 				</File>
 				<File Id="949605517" Language="SFX">
 					<ShortName>JUMP-002.wav</ShortName>
