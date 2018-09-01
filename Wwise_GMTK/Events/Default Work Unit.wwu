@@ -31,6 +31,34 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Voice_Win" ID="{15668535-A05D-41D7-8680-2B868F8E05A7}">
+					<ChildrenList>
+						<Action Name="" ID="{5EEA4F43-284B-4E68-8AB5-2FC289B7F6E9}" ShortID="676185443">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Voice Win" ID="{06765280-7128-49DD-8996-DDBB1862313D}" WorkUnitID="{217D670F-8837-43EC-B969-20065DB5C469}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Voice_Die" ID="{28653321-B11D-4CB2-8697-6D3AF6745E0F}">
+					<ChildrenList>
+						<Action Name="" ID="{76B85C9D-1490-4602-97A2-A3AB6FC167C7}" ShortID="32990949">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Voice-Die" ID="{16536278-DAA8-4F40-AF81-0164B3A42015}" WorkUnitID="{217D670F-8837-43EC-B969-20065DB5C469}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

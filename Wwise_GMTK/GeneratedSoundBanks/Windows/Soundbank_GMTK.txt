@@ -1,4 +1,6 @@
 Event	ID	Name			Wwise Object Path	Notes
+	826685355	Play_Voice_Die			\Default Work Unit\Play_Voice_Die	
+	963716355	Play_Voice_Win			\Default Work Unit\Play_Voice_Win	
 	2734754760	Play_Magnet			\Default Work Unit\Play_Magnet	
 	3689126666	Play_Jump			\Default Work Unit\Play_Jump	
 

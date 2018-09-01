@@ -23,6 +23,8 @@
 			<IncludedEvents>
 				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump"/>
 				<Event Id="2734754760" Name="Play_Magnet" ObjectPath="\Events\Default Work Unit\Play_Magnet"/>
+				<Event Id="826685355" Name="Play_Voice_Die" ObjectPath="\Events\Default Work Unit\Play_Voice_Die"/>
+				<Event Id="963716355" Name="Play_Voice_Win" ObjectPath="\Events\Default Work Unit\Play_Voice_Win"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="61872418" Language="SFX">
