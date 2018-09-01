@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="89">
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1535791970" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1535791976" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1535791970" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Attenuations\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Audio Devices\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Control Surface Sessions\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Conversion Settings\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1535791970" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Effects\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Effects\Factory Auro Headphone.wwu" DateLow="1535791982" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Effects\Factory Effects.wwu" DateLow="1535791970" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Effects\Factory iZotope Box Modeler.wwu" DateLow="1535791981" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Effects\Factory iZotope Delay.wwu" DateLow="1535791981" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Effects\Factory iZotope Dynamics.wwu" DateLow="1535791981" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Effects\Factory iZotope Filters.wwu" DateLow="1535791981" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1535791981" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1535791981" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1535791981" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Effects\Factory McDSP Effects.wwu" DateLow="1535791978" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Events\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Game Parameters\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Game Parameters\Factory Motion.wwu" DateLow="1535791970" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1535791976" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Mixing Sessions\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Modulators\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Presets\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Queries\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Queries\Factory Queries.wwu" DateLow="1535791970" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\SoundBanks\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\States\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Switches\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Triggers\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Virtual Acoustics\Default Work Unit.wwu" DateLow="1535793163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1535791978" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK.wproj" DateLow="1535793163" DateHigh="0"/>
+</ValidationCache>
