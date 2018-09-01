@@ -2,25 +2,38 @@ Event	ID	Name			Wwise Object Path	Notes
 	826685355	Play_Voice_Die			\Default Work Unit\Play_Voice_Die	
 	963716355	Play_Voice_Win			\Default Work Unit\Play_Voice_Win	
 	2734754760	Play_Magnet			\Default Work Unit\Play_Magnet	
+	3465618802	Play_Bounce			\Default Work Unit\Play_Bounce	
 	3689126666	Play_Jump			\Default Work Unit\Play_Jump	
 
 Effect plug-ins	ID	Name	Type				Notes
 	1588715066	Echoes_Linear	Wwise Delay			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	8483503	BOUNCE-NOVOICE-004	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-NOVOICE-004_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-NOVOICE-004		8646
+	10167498	BOUNCE-006	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-006_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-006		13411
 	61872418	VOICE-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\VOICE-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Voice-Die\VOICE-003		22676
 	103207546	MAGNET-002	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\MAGNET-002_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Magnet\MAGNET-002		12186
 	182415985	MAGNET-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\MAGNET-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Magnet\MAGNET-003		13792
+	266966614	BOUNCE-NOVOICE-002	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-NOVOICE-002_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-NOVOICE-002		8437
+	278489447	BOUNCE-NOVOICE-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-NOVOICE-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-NOVOICE-003		10119
+	291857235	BOUNCE-NOVOICE-001	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-NOVOICE-001_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-NOVOICE-001		9915
 	320312266	VOICE-005	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\VOICE-005_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Voice Win\VOICE-005		13819
 	387697174	JUMP-004	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\JUMP-004_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Jump\JUMP-004		8742
 	397183337	JUMP-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\JUMP-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Jump\JUMP-003		10683
+	422271781	BOUNCE-NOVOICE-006	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-NOVOICE-006_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-NOVOICE-006		11452
 	473228714	MAGNET-004	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\MAGNET-004_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Magnet\MAGNET-004		10615
 	479986728	VOICE-007	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\VOICE-007_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Voice-Die\VOICE-007		19118
+	576350895	BOUNCE-NOVOICE-005	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-NOVOICE-005_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-NOVOICE-005		10326
+	586906790	BOUNCE-002	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-002_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-002		11262
 	632401361	JUMP-001	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\JUMP-001_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Jump\JUMP-001		10191
 	640917164	VOICE-004	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\VOICE-004_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Voice Win\VOICE-004		11663
+	755918865	BOUNCE-004	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-004_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-004		11543
 	786963216	VOICE-002	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\VOICE-002_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Voice Win\VOICE-002		11027
 	791071215	MAGNET-001	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\MAGNET-001_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Magnet\MAGNET-001		13404
 	942666627	VOICE-001	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\VOICE-001_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Voice-Die\VOICE-001		22979
+	946899478	BOUNCE-001	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-001_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-001		8833
 	949605517	JUMP-002	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\JUMP-002_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Jump\JUMP-002		12022
+	962941939	BOUNCE-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-003		13176
 	993430041	VOICE-006	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\VOICE-006_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Voice-Die\VOICE-006		18562
+	1027146539	BOUNCE-005	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-005_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-005		14683
 

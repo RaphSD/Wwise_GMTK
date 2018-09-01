@@ -21,12 +21,21 @@
 			<ShortName>Soundbank_GMTK</ShortName>
 			<Path>Soundbank_GMTK.bnk</Path>
 			<IncludedEvents>
+				<Event Id="3465618802" Name="Play_Bounce" ObjectPath="\Events\Default Work Unit\Play_Bounce"/>
 				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump"/>
 				<Event Id="2734754760" Name="Play_Magnet" ObjectPath="\Events\Default Work Unit\Play_Magnet"/>
 				<Event Id="826685355" Name="Play_Voice_Die" ObjectPath="\Events\Default Work Unit\Play_Voice_Die"/>
 				<Event Id="963716355" Name="Play_Voice_Win" ObjectPath="\Events\Default Work Unit\Play_Voice_Win"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="8483503" Language="SFX">
+					<ShortName>BOUNCE-NOVOICE-004.wav</ShortName>
+					<Path>SFX\BOUNCE-NOVOICE-004_474E68A2.wem</Path>
+				</File>
+				<File Id="10167498" Language="SFX">
+					<ShortName>BOUNCE-006.wav</ShortName>
+					<Path>SFX\BOUNCE-006_474E68A2.wem</Path>
+				</File>
 				<File Id="61872418" Language="SFX">
 					<ShortName>VOICE-003.wav</ShortName>
 					<Path>SFX\VOICE-003_474E68A2.wem</Path>
@@ -38,6 +47,18 @@
 				<File Id="182415985" Language="SFX">
 					<ShortName>MAGNET-003.wav</ShortName>
 					<Path>SFX\MAGNET-003_474E68A2.wem</Path>
+				</File>
+				<File Id="266966614" Language="SFX">
+					<ShortName>BOUNCE-NOVOICE-002.wav</ShortName>
+					<Path>SFX\BOUNCE-NOVOICE-002_474E68A2.wem</Path>
+				</File>
+				<File Id="278489447" Language="SFX">
+					<ShortName>BOUNCE-NOVOICE-003.wav</ShortName>
+					<Path>SFX\BOUNCE-NOVOICE-003_474E68A2.wem</Path>
+				</File>
+				<File Id="291857235" Language="SFX">
+					<ShortName>BOUNCE-NOVOICE-001.wav</ShortName>
+					<Path>SFX\BOUNCE-NOVOICE-001_474E68A2.wem</Path>
 				</File>
 				<File Id="320312266" Language="SFX">
 					<ShortName>VOICE-005.wav</ShortName>
@@ -51,6 +72,10 @@
 					<ShortName>JUMP-003.wav</ShortName>
 					<Path>SFX\JUMP-003_474E68A2.wem</Path>
 				</File>
+				<File Id="422271781" Language="SFX">
+					<ShortName>BOUNCE-NOVOICE-006.wav</ShortName>
+					<Path>SFX\BOUNCE-NOVOICE-006_474E68A2.wem</Path>
+				</File>
 				<File Id="473228714" Language="SFX">
 					<ShortName>MAGNET-004.wav</ShortName>
 					<Path>SFX\MAGNET-004_474E68A2.wem</Path>
@@ -59,6 +84,14 @@
 					<ShortName>VOICE-007.wav</ShortName>
 					<Path>SFX\VOICE-007_474E68A2.wem</Path>
 				</File>
+				<File Id="576350895" Language="SFX">
+					<ShortName>BOUNCE-NOVOICE-005.wav</ShortName>
+					<Path>SFX\BOUNCE-NOVOICE-005_474E68A2.wem</Path>
+				</File>
+				<File Id="586906790" Language="SFX">
+					<ShortName>BOUNCE-002.wav</ShortName>
+					<Path>SFX\BOUNCE-002_474E68A2.wem</Path>
+				</File>
 				<File Id="632401361" Language="SFX">
 					<ShortName>JUMP-001.wav</ShortName>
 					<Path>SFX\JUMP-001_474E68A2.wem</Path>
@@ -66,6 +99,10 @@
 				<File Id="640917164" Language="SFX">
 					<ShortName>VOICE-004.wav</ShortName>
 					<Path>SFX\VOICE-004_474E68A2.wem</Path>
+				</File>
+				<File Id="755918865" Language="SFX">
+					<ShortName>BOUNCE-004.wav</ShortName>
+					<Path>SFX\BOUNCE-004_474E68A2.wem</Path>
 				</File>
 				<File Id="786963216" Language="SFX">
 					<ShortName>VOICE-002.wav</ShortName>
@@ -79,13 +116,25 @@
 					<ShortName>VOICE-001.wav</ShortName>
 					<Path>SFX\VOICE-001_474E68A2.wem</Path>
 				</File>
+				<File Id="946899478" Language="SFX">
+					<ShortName>BOUNCE-001.wav</ShortName>
+					<Path>SFX\BOUNCE-001_474E68A2.wem</Path>
+				</File>
 				<File Id="949605517" Language="SFX">
 					<ShortName>JUMP-002.wav</ShortName>
 					<Path>SFX\JUMP-002_474E68A2.wem</Path>
 				</File>
+				<File Id="962941939" Language="SFX">
+					<ShortName>BOUNCE-003.wav</ShortName>
+					<Path>SFX\BOUNCE-003_474E68A2.wem</Path>
+				</File>
 				<File Id="993430041" Language="SFX">
 					<ShortName>VOICE-006.wav</ShortName>
 					<Path>SFX\VOICE-006_474E68A2.wem</Path>
+				</File>
+				<File Id="1027146539" Language="SFX">
+					<ShortName>BOUNCE-005.wav</ShortName>
+					<Path>SFX\BOUNCE-005_474E68A2.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

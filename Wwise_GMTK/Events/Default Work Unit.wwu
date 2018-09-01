@@ -59,6 +59,20 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Bounce" ID="{ECB23628-3765-4D7D-89DC-7FD7B15EF44C}">
+					<ChildrenList>
+						<Action Name="" ID="{CF70DEDE-158C-42CF-930A-CDEAAB462F66}" ShortID="522985262">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bounce" ID="{5F0AC684-5241-4A1D-8633-4F328EB1AC41}" WorkUnitID="{217D670F-8837-43EC-B969-20065DB5C469}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
