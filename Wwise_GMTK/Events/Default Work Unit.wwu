@@ -125,6 +125,34 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Repop" ID="{110DB0B8-EBA3-4B34-BE22-61CB32131452}">
+					<ChildrenList>
+						<Action Name="" ID="{56F8CA0B-E123-48C8-98E8-5B5367E53C3F}" ShortID="462110837">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Repop" ID="{8A882DE5-2C84-4C7A-9B6D-5705D640C0C7}" WorkUnitID="{217D670F-8837-43EC-B969-20065DB5C469}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Energy" ID="{818B4844-C6C5-45D1-AA1F-1637B7F567DE}">
+					<ChildrenList>
+						<Action Name="" ID="{30231F93-3F6F-40DA-A4BC-FA6935A6A7F7}" ShortID="199556028">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Energy" ID="{3EE2DCA8-B141-46CE-BF06-68B31D1FA8D4}" WorkUnitID="{217D670F-8837-43EC-B969-20065DB5C469}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

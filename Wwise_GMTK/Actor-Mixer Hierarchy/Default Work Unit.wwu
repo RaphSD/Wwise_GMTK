@@ -683,6 +683,108 @@
 								<ActiveSource Name="death" ID="{A6757F92-5A0D-4AA5-8212-5060EC3E073E}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
+						<RandomSequenceContainer Name="Repop" ID="{8A882DE5-2C84-4C7A-9B6D-5705D640C0C7}" ShortID="346057170">
+							<PropertyList>
+								<Property Name="UserAuxSendVolume0" Type="Real64">
+									<ValueList>
+										<Value>-22</Value>
+									</ValueList>
+								</Property>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>3</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CF479F07-6E0B-4CFC-9837-1DCF7568E090}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+								</Reference>
+								<Reference Name="UserAuxSend0">
+									<ObjectRef Name="REVERB" ID="{C1B779BF-BF47-45E6-B434-288DD1DEF6E8}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="pop_1" ID="{DED17268-4A39-497B-B78B-386B28FAD8FE}" ShortID="374060141">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CF479F07-6E0B-4CFC-9837-1DCF7568E090}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="pop_1" ID="{9FFED2BB-370C-420F-8BCD-C9E82D80D37A}" ShortID="1008347342">
+											<Language>SFX</Language>
+											<AudioFile>pop_1.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="pop_1" ID="{9FFED2BB-370C-420F-8BCD-C9E82D80D37A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="pop_2" ID="{23DE5864-E6BD-48BD-AFD9-E58F60BBDC54}" ShortID="298850608">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CF479F07-6E0B-4CFC-9837-1DCF7568E090}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="pop_2" ID="{E646559C-53C1-48D7-A44B-2925477052BB}" ShortID="860427573">
+											<Language>SFX</Language>
+											<AudioFile>pop_2.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="pop_2" ID="{E646559C-53C1-48D7-A44B-2925477052BB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<Sound Name="Energy" ID="{3EE2DCA8-B141-46CE-BF06-68B31D1FA8D4}" ShortID="769442963">
+							<PropertyList>
+								<Property Name="UserAuxSendVolume0" Type="Real64">
+									<ValueList>
+										<Value>-16</Value>
+									</ValueList>
+								</Property>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-9</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CF479F07-6E0B-4CFC-9837-1DCF7568E090}"/>
+								</Reference>
+								<Reference Name="Effect0" PluginName="Wwise Delay" CompanyID="0" PluginID="106" PluginType="3">
+									<ObjectRef Name="Echoes_Linear" ID="{D20F3717-EBA2-4E3A-84F8-C8BD431563FB}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+								</Reference>
+								<Reference Name="UserAuxSend0">
+									<ObjectRef Name="REVERB" ID="{C1B779BF-BF47-45E6-B434-288DD1DEF6E8}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="ENERGY" ID="{05287435-CF74-4D3D-98E7-28E0D137FBCC}" ShortID="283061823">
+									<Language>SFX</Language>
+									<AudioFile>ENERGY.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="ENERGY" ID="{05287435-CF74-4D3D-98E7-28E0D137FBCC}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>

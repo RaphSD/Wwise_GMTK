@@ -4,12 +4,12 @@
 		<Banks>
 			<Language ID="393239870">
 				<File Name="Init" Hash="2605352131" Timestamp="1535885975"/>
-				<File Name="Soundbank_GMTK" Hash="2696829829" Timestamp="1535885955"/>
+				<File Name="Soundbank_GMTK" Hash="2373674806" Timestamp="1535890469"/>
 			</Language>
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="1726090138" Timestamp="1535885975"/>
+				<File Name="" Hash="473390943" Timestamp="1535890469"/>
 			</Language>
 		</XMLInfo>
 	</Platform>

@@ -22,10 +22,12 @@
 			<Path>Soundbank_GMTK.bnk</Path>
 			<IncludedEvents>
 				<Event Id="3465618802" Name="Play_Bounce" ObjectPath="\Events\Default Work Unit\Play_Bounce"/>
+				<Event Id="1141136410" Name="Play_Energy" ObjectPath="\Events\Default Work Unit\Play_Energy"/>
 				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump"/>
 				<Event Id="2734754760" Name="Play_Magnet" ObjectPath="\Events\Default Work Unit\Play_Magnet"/>
 				<Event Id="2932040671" Name="Play_Music" ObjectPath="\Events\Default Work Unit\Play_Music"/>
 				<Event Id="4215300671" Name="Play_NoJump" ObjectPath="\Events\Default Work Unit\Play_NoJump"/>
+				<Event Id="65317818" Name="Play_Repop" ObjectPath="\Events\Default Work Unit\Play_Repop"/>
 				<Event Id="826685355" Name="Play_Voice_Die" ObjectPath="\Events\Default Work Unit\Play_Voice_Die"/>
 				<Event Id="963716355" Name="Play_Voice_Win" ObjectPath="\Events\Default Work Unit\Play_Voice_Win"/>
 			</IncludedEvents>
@@ -58,13 +60,17 @@
 					<ShortName>BOUNCE-NOVOICE-003.wav</ShortName>
 					<Path>SFX\BOUNCE-NOVOICE-003_474E68A2.wem</Path>
 				</File>
+				<File Id="283061823" Language="SFX">
+					<ShortName>ENERGY.wav</ShortName>
+					<Path>SFX\ENERGY_474E68A2.wem</Path>
+				</File>
 				<File Id="291857235" Language="SFX">
 					<ShortName>BOUNCE-NOVOICE-001.wav</ShortName>
 					<Path>SFX\BOUNCE-NOVOICE-001_474E68A2.wem</Path>
 				</File>
 				<File Id="301403201" Language="SFX">
 					<ShortName>death.wav</ShortName>
-					<Path>SFX\death_D58DC000.wem</Path>
+					<Path>SFX\death_DC299CCE.wem</Path>
 				</File>
 				<File Id="320312266" Language="SFX">
 					<ShortName>VOICE-005.wav</ShortName>
@@ -114,6 +120,10 @@
 					<ShortName>MAGNET-001.wav</ShortName>
 					<Path>SFX\MAGNET-001_474E68A2.wem</Path>
 				</File>
+				<File Id="860427573" Language="SFX">
+					<ShortName>pop_2.wav</ShortName>
+					<Path>SFX\pop_2_474E68A2.wem</Path>
+				</File>
 				<File Id="946899478" Language="SFX">
 					<ShortName>BOUNCE-001.wav</ShortName>
 					<Path>SFX\BOUNCE-001_474E68A2.wem</Path>
@@ -129,6 +139,10 @@
 				<File Id="962941939" Language="SFX">
 					<ShortName>BOUNCE-003.wav</ShortName>
 					<Path>SFX\BOUNCE-003_474E68A2.wem</Path>
+				</File>
+				<File Id="1008347342" Language="SFX">
+					<ShortName>pop_1.wav</ShortName>
+					<Path>SFX\pop_1_474E68A2.wem</Path>
 				</File>
 				<File Id="1027146539" Language="SFX">
 					<ShortName>BOUNCE-005.wav</ShortName>
