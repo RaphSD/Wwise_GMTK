@@ -77,7 +77,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Voice-Die" ID="{16536278-DAA8-4F40-AF81-0164B3A42015}" WorkUnitID="{217D670F-8837-43EC-B969-20065DB5C469}"/>
+									<ObjectRef Name="Voice Die" ID="{5E166E93-E193-4728-B9EF-07B26618A867}" WorkUnitID="{217D670F-8837-43EC-B969-20065DB5C469}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

@@ -38,10 +38,6 @@
 					<ShortName>BOUNCE-006.wav</ShortName>
 					<Path>SFX\BOUNCE-006_474E68A2.wem</Path>
 				</File>
-				<File Id="61872418" Language="SFX">
-					<ShortName>VOICE-003.wav</ShortName>
-					<Path>SFX\VOICE-003_474E68A2.wem</Path>
-				</File>
 				<File Id="103207546" Language="SFX">
 					<ShortName>MAGNET-002.wav</ShortName>
 					<Path>SFX\MAGNET-002_474E68A2.wem</Path>
@@ -66,6 +62,10 @@
 					<ShortName>BOUNCE-NOVOICE-001.wav</ShortName>
 					<Path>SFX\BOUNCE-NOVOICE-001_474E68A2.wem</Path>
 				</File>
+				<File Id="301403201" Language="SFX">
+					<ShortName>death.wav</ShortName>
+					<Path>SFX\death_D58DC000.wem</Path>
+				</File>
 				<File Id="320312266" Language="SFX">
 					<ShortName>VOICE-005.wav</ShortName>
 					<Path>SFX\VOICE-005_474E68A2.wem</Path>
@@ -85,10 +85,6 @@
 				<File Id="473228714" Language="SFX">
 					<ShortName>MAGNET-004.wav</ShortName>
 					<Path>SFX\MAGNET-004_474E68A2.wem</Path>
-				</File>
-				<File Id="479986728" Language="SFX">
-					<ShortName>VOICE-007.wav</ShortName>
-					<Path>SFX\VOICE-007_474E68A2.wem</Path>
 				</File>
 				<File Id="576350895" Language="SFX">
 					<ShortName>BOUNCE-NOVOICE-005.wav</ShortName>
@@ -118,10 +114,6 @@
 					<ShortName>MAGNET-001.wav</ShortName>
 					<Path>SFX\MAGNET-001_474E68A2.wem</Path>
 				</File>
-				<File Id="942666627" Language="SFX">
-					<ShortName>VOICE-001.wav</ShortName>
-					<Path>SFX\VOICE-001_474E68A2.wem</Path>
-				</File>
 				<File Id="946899478" Language="SFX">
 					<ShortName>BOUNCE-001.wav</ShortName>
 					<Path>SFX\BOUNCE-001_474E68A2.wem</Path>
@@ -137,10 +129,6 @@
 				<File Id="962941939" Language="SFX">
 					<ShortName>BOUNCE-003.wav</ShortName>
 					<Path>SFX\BOUNCE-003_474E68A2.wem</Path>
-				</File>
-				<File Id="993430041" Language="SFX">
-					<ShortName>VOICE-006.wav</ShortName>
-					<Path>SFX\VOICE-006_474E68A2.wem</Path>
 				</File>
 				<File Id="1027146539" Language="SFX">
 					<ShortName>BOUNCE-005.wav</ShortName>
