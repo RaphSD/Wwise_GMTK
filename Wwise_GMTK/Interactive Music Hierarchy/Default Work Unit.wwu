@@ -85,7 +85,7 @@
 					<ChildrenList>
 						<MusicSegment Name="space_soup_fullmix_60bpm_tail" ID="{710381E7-2EAB-4BC9-8AD4-2C09F38204FE}" ShortID="1015284886">
 							<PropertyList>
-								<Property Name="EndPosition" Type="Real64" Value="174000"/>
+								<Property Name="EndPosition" Type="Real64" Value="365113.785557987"/>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -103,9 +103,9 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="space_soup_fullmix_60bpm_tail" ID="{CAE0DB1F-66A6-4CC6-9ADB-763948BA651E}" ShortID="961497385">
+										<AudioFileSource Name="space_soup_fullmix_60bpm_tail_2" ID="{F7164724-1BFD-4EE2-B055-41CC0958907C}" ShortID="391253149">
 											<Language>SFX</Language>
-											<AudioFile>space_soup_fullmix_60bpm_tail.wav</AudioFile>
+											<AudioFile>space_soup_fullmix_60bpm_tail_2.wav</AudioFile>
 										</AudioFileSource>
 									</ChildrenList>
 									<TransitionList>
@@ -119,13 +119,13 @@
 									<SequenceList>
 										<MusicTrackSequence Name="" ID="{BDB5FC45-39A3-48F1-A366-4DB8A1F779BE}">
 											<ClipList>
-												<MusicClip Name="space_soup_fullmix_60bpm_tail" ID="{FF207C3B-71D0-4184-A064-F48ED378FA6B}">
+												<MusicClip Name="space_soup_fullmix_60bpm_tail_2" ID="{8E637A57-D9B7-4A0C-A6C8-9BAFF423D393}">
 													<PropertyList>
-														<Property Name="EndTrimOffset" Type="Real64" Value="174000"/>
+														<Property Name="EndTrimOffset" Type="Real64" Value="168000"/>
 														<Property Name="FadeInMode" Type="int16" Value="0"/>
 														<Property Name="FadeOutMode" Type="int16" Value="0"/>
 													</PropertyList>
-													<AudioSourceRef Name="space_soup_fullmix_60bpm_tail" ID="{CAE0DB1F-66A6-4CC6-9ADB-763948BA651E}"/>
+													<AudioSourceRef Name="space_soup_fullmix_60bpm_tail_2" ID="{F7164724-1BFD-4EE2-B055-41CC0958907C}"/>
 												</MusicClip>
 											</ClipList>
 										</MusicTrackSequence>
