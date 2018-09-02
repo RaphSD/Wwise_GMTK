@@ -38,6 +38,10 @@
 							<Position X="2" Y="1"/>
 						</Module>
 						<Module>
+							<ObjectRef Name="Play_UI" ID="{53A9BB1F-272F-49D5-979A-E9DB91D03875}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
+							<Position X="2" Y="2"/>
+						</Module>
+						<Module>
 							<ObjectRef Name="Play_Jump" ID="{7C8DD138-FB9D-4F42-8445-671392D1E949}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
 							<Position X="3" Y="0"/>
 						</Module>

@@ -29,6 +29,7 @@
 				<Event Id="1699343283" Name="Play_Music_Menu" ObjectPath="\Events\Default Work Unit\Play_Music_Menu"/>
 				<Event Id="4215300671" Name="Play_NoJump" ObjectPath="\Events\Default Work Unit\Play_NoJump"/>
 				<Event Id="65317818" Name="Play_Repop" ObjectPath="\Events\Default Work Unit\Play_Repop"/>
+				<Event Id="2044747472" Name="Play_UI" ObjectPath="\Events\Default Work Unit\Play_UI"/>
 				<Event Id="826685355" Name="Play_Voice_Die" ObjectPath="\Events\Default Work Unit\Play_Voice_Die"/>
 				<Event Id="963716355" Name="Play_Voice_Win" ObjectPath="\Events\Default Work Unit\Play_Voice_Win"/>
 			</IncludedEvents>
@@ -52,6 +53,10 @@
 				<File Id="182415985" Language="SFX">
 					<ShortName>MAGNET-003.wav</ShortName>
 					<Path>SFX\MAGNET-003_474E68A2.wem</Path>
+				</File>
+				<File Id="259025327" Language="SFX">
+					<ShortName>UI-001.wav</ShortName>
+					<Path>SFX\UI-001_474E68A2.wem</Path>
 				</File>
 				<File Id="266966614" Language="SFX">
 					<ShortName>BOUNCE-NOVOICE-002.wav</ShortName>
@@ -96,6 +101,10 @@
 				<File Id="473228714" Language="SFX">
 					<ShortName>MAGNET-004.wav</ShortName>
 					<Path>SFX\MAGNET-004_474E68A2.wem</Path>
+				</File>
+				<File Id="505297191" Language="SFX">
+					<ShortName>UI-002.wav</ShortName>
+					<Path>SFX\UI-002_474E68A2.wem</Path>
 				</File>
 				<File Id="576350895" Language="SFX">
 					<ShortName>BOUNCE-NOVOICE-005.wav</ShortName>
