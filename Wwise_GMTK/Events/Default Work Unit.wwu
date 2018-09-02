@@ -206,6 +206,20 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Bip_Antenne" ID="{69B906D1-2525-4015-A921-0C8760D0EF2A}">
+					<ChildrenList>
+						<Action Name="" ID="{7DD41D48-C2BC-432C-89B1-B124AEDFAB41}" ShortID="465558265">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bip-Antenne" ID="{7A414608-C463-44FF-8AED-CD04CB9373A6}" WorkUnitID="{217D670F-8837-43EC-B969-20065DB5C469}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

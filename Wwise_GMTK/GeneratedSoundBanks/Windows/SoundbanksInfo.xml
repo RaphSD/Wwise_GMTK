@@ -21,6 +21,7 @@
 			<ShortName>Soundbank_GMTK</ShortName>
 			<Path>Soundbank_GMTK.bnk</Path>
 			<IncludedEvents>
+				<Event Id="995018655" Name="Play_Bip_Antenne" ObjectPath="\Events\Default Work Unit\Play_Bip_Antenne"/>
 				<Event Id="3465618802" Name="Play_Bounce" ObjectPath="\Events\Default Work Unit\Play_Bounce"/>
 				<Event Id="1141136410" Name="Play_Energy" ObjectPath="\Events\Default Work Unit\Play_Energy"/>
 				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump"/>
@@ -57,6 +58,10 @@
 				<File Id="259025327" Language="SFX">
 					<ShortName>UI-001.wav</ShortName>
 					<Path>SFX\UI-001_474E68A2.wem</Path>
+				</File>
+				<File Id="261942364" Language="SFX">
+					<ShortName>bip_antenne.wav</ShortName>
+					<Path>SFX\bip_antenne_474E68A2.wem</Path>
 				</File>
 				<File Id="266966614" Language="SFX">
 					<ShortName>BOUNCE-NOVOICE-002.wav</ShortName>

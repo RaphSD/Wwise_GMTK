@@ -49,6 +49,10 @@
 							<ObjectRef Name="Play_NoJump" ID="{92ED6ECB-77E2-4401-B4C2-CD06C8405391}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
 							<Position X="3" Y="1"/>
 						</Module>
+						<Module>
+							<ObjectRef Name="Play_Bip_Antenne" ID="{69B906D1-2525-4015-A921-0C8760D0EF2A}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
+							<Position X="3" Y="2"/>
+						</Module>
 					</ModuleList>
 					<RTPCValueList ShowAll="true">
 						<RTPCValue>

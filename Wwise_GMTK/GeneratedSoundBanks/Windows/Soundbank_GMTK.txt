@@ -2,6 +2,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	65317818	Play_Repop			\Default Work Unit\Play_Repop	
 	826685355	Play_Voice_Die			\Default Work Unit\Play_Voice_Die	
 	963716355	Play_Voice_Win			\Default Work Unit\Play_Voice_Win	
+	995018655	Play_Bip_Antenne			\Default Work Unit\Play_Bip_Antenne	
 	1141136410	Play_Energy			\Default Work Unit\Play_Energy	
 	1699343283	Play_Music_Menu			\Default Work Unit\Play_Music_Menu	
 	2044747472	Play_UI			\Default Work Unit\Play_UI	
@@ -25,6 +26,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	142493328	NoJump	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\NOJUMP_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\NoJump		15951
 	182415985	MAGNET-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\MAGNET-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Magnet\MAGNET-003		13792
 	259025327	UI-001	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\UI-001_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\UI\UI-001		15594
+	261942364	Bip-Antenne	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\bip_antenne_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bip-Antenne		30099
 	266966614	BOUNCE-NOVOICE-002	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-NOVOICE-002_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-NOVOICE-002		8437
 	278489447	BOUNCE-NOVOICE-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-NOVOICE-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-NOVOICE-003		10119
 	283061823	Energy	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\ENERGY_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Energy		18807
