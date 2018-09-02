@@ -8,6 +8,9 @@
 						<Reference Name="AudioDevice">
 							<ObjectRef Name="System" ID="{5C8136DD-8340-462C-97B9-9F84FB6BA385}" WorkUnitID="{88876929-5BDE-454F-8260-2AF00A7144DB}"/>
 						</Reference>
+						<Reference Name="Effect0" PluginName="Wwise Peak Limiter" CompanyID="0" PluginID="110" PluginType="3">
+							<ObjectRef Name="New_Wwise_Peak_Limiter" ID="{1C080E57-ADE4-4301-8A62-9865AF966077}" WorkUnitID="{792454C3-9C72-4B23-921F-234594130BA2}"/>
+						</Reference>
 					</ReferenceList>
 					<ChildrenList>
 						<AuxBus Name="REVERB" ID="{C1B779BF-BF47-45E6-B434-288DD1DEF6E8}">

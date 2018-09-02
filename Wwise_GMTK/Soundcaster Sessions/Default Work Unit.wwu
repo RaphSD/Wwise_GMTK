@@ -6,16 +6,44 @@
 				<SoundcasterSession Name="spaceoperastarwars" ID="{54A3B42B-2D26-4285-911F-918947BE4FF6}">
 					<ModuleList>
 						<Module>
-							<ObjectRef Name="Play_Music" ID="{97967EAB-E084-4591-90A6-A2ECC8E26B38}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
+							<ObjectRef Name="Play_Repop" ID="{110DB0B8-EBA3-4B34-BE22-61CB32131452}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
 							<Position X="0" Y="0"/>
 						</Module>
 						<Module>
-							<ObjectRef Name="Play_Jump" ID="{7C8DD138-FB9D-4F42-8445-671392D1E949}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
+							<ObjectRef Name="Play_Magnet" ID="{92B7D8F6-2C33-4F99-A1D1-06140E98033D}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Voice_Die" ID="{28653321-B11D-4CB2-8697-6D3AF6745E0F}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Bounce" ID="{ECB23628-3765-4D7D-89DC-7FD7B15EF44C}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
 							<Position X="1" Y="0"/>
 						</Module>
 						<Module>
-							<ObjectRef Name="Play_Music_Menu" ID="{862DBFB8-442E-4F14-9171-647F68B0C27B}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
+							<ObjectRef Name="Play_Music" ID="{97967EAB-E084-4591-90A6-A2ECC8E26B38}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Voice_Win" ID="{15668535-A05D-41D7-8680-2B868F8E05A7}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
+							<Position X="1" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Energy" ID="{818B4844-C6C5-45D1-AA1F-1637B7F567DE}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
 							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Music_Menu" ID="{862DBFB8-442E-4F14-9171-647F68B0C27B}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Jump" ID="{7C8DD138-FB9D-4F42-8445-671392D1E949}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_NoJump" ID="{92ED6ECB-77E2-4401-B4C2-CD06C8405391}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
+							<Position X="3" Y="1"/>
 						</Module>
 					</ModuleList>
 					<RTPCValueList ShowAll="true">

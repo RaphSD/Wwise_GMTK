@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{792454C3-9C72-4B23-921F-234594130BA2}" SchemaVersion="89">
 	<Effects>
-		<WorkUnit Name="Default Work Unit" ID="{792454C3-9C72-4B23-921F-234594130BA2}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{792454C3-9C72-4B23-921F-234594130BA2}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="New_Wwise_Peak_Limiter" ID="{1C080E57-ADE4-4301-8A62-9865AF966077}" PluginName="Wwise Peak Limiter" CompanyID="0" PluginID="110" PluginType="3">
+					<PropertyList>
+						<Property Name="OutputGain" Type="Real32" Value="6.4"/>
+						<Property Name="Ratio" Type="Real32" Value="17.5"/>
+						<Property Name="Threshold" Type="Real32" Value="-5.6"/>
+					</PropertyList>
+				</Effect>
+			</ChildrenList>
+		</WorkUnit>
 	</Effects>
 </WwiseDocument>

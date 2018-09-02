@@ -81,6 +81,10 @@
 					<ShortName>JUMP-004.wav</ShortName>
 					<Path>SFX\JUMP-004_474E68A2.wem</Path>
 				</File>
+				<File Id="391253149" Language="SFX">
+					<ShortName>space_soup_fullmix_60bpm_tail_2.wav</ShortName>
+					<Path>SFX\space_soup_fullmix_60bpm_tail_2_E60452FC.wem</Path>
+				</File>
 				<File Id="397183337" Language="SFX">
 					<ShortName>JUMP-003.wav</ShortName>
 					<Path>SFX\JUMP-003_474E68A2.wem</Path>
@@ -132,10 +136,6 @@
 				<File Id="949605517" Language="SFX">
 					<ShortName>JUMP-002.wav</ShortName>
 					<Path>SFX\JUMP-002_474E68A2.wem</Path>
-				</File>
-				<File Id="961497385" Language="SFX">
-					<ShortName>space_soup_fullmix_60bpm_tail.wav</ShortName>
-					<Path>SFX\space_soup_fullmix_60bpm_tail_E60452FC.wem</Path>
 				</File>
 				<File Id="962941939" Language="SFX">
 					<ShortName>BOUNCE-003.wav</ShortName>
