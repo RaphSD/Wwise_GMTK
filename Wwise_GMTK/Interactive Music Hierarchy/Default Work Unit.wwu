@@ -1,6 +1,178 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{CA62A60D-407F-4E7F-B2DA-04C3085940F1}" SchemaVersion="89">
 	<InteractiveMusic>
-		<WorkUnit Name="Default Work Unit" ID="{CA62A60D-407F-4E7F-B2DA-04C3085940F1}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{CA62A60D-407F-4E7F-B2DA-04C3085940F1}" PersistMode="Standalone">
+			<ChildrenList>
+				<MusicPlaylistContainer Name="Music" ID="{5F8C7503-E32E-4EDE-AF87-9580CE69A634}" ShortID="730393548">
+					<PropertyList>
+						<Property Name="Tempo" Type="Real64" Value="60"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CF479F07-6E0B-4CFC-9837-1DCF7568E090}"/>
+						</Reference>
+						<Reference Name="Effect0">
+							<Custom>
+								<Effect Name="Wwise Parametric EQ (Custom)" ID="{34161169-2595-4617-9D1C-9DD029C662E4}" ShortID="494598198" PluginName="Wwise Parametric EQ" CompanyID="0" PluginID="105" PluginType="3">
+									<PropertyList>
+										<Property Name="FilterTypeBand3" Type="int32" Value="0"/>
+										<Property Name="FrequencyBand2" Type="Real32" Value="11500">
+											<RTPCList>
+												<RTPC Name="" ID="{B245A7CA-492C-4B5A-A7A1-EC5BDA3A2F9E}" ShortID="472490687">
+													<ReferenceList>
+														<Reference Name="ControlInput">
+															<ObjectRef Name="ResonanceFilter" ID="{BF957560-82B4-49DC-988E-5D121BFA1615}" WorkUnitID="{2A17B3AC-82B8-4C25-A586-0B8FCCF9F710}"/>
+														</Reference>
+													</ReferenceList>
+													<Curve Name="" ID="{B6B1CEAF-E168-44FB-B15E-FBA771A6ACA1}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="5"/>
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>40.51933</YPos>
+																<Flags>5</Flags>
+															</Point>
+															<Point>
+																<XPos>100</XPos>
+																<YPos>20000</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</RTPC>
+											</RTPCList>
+										</Property>
+										<Property Name="FrequencyBand3" Type="Real32">
+											<RTPCList>
+												<RTPC Name="" ID="{C4B535B0-D947-4EDD-9892-DB0501342619}" ShortID="135722252">
+													<ReferenceList>
+														<Reference Name="ControlInput">
+															<ObjectRef Name="ResonanceFilter" ID="{BF957560-82B4-49DC-988E-5D121BFA1615}" WorkUnitID="{2A17B3AC-82B8-4C25-A586-0B8FCCF9F710}"/>
+														</Reference>
+													</ReferenceList>
+													<Curve Name="" ID="{2FAC0DFE-192D-4694-924E-C7A561B12DFB}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="5"/>
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>40.16697</YPos>
+																<Flags>5</Flags>
+															</Point>
+															<Point>
+																<XPos>100</XPos>
+																<YPos>20000</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</RTPC>
+											</RTPCList>
+										</Property>
+										<Property Name="GainBand2" Type="Real32" Value="12"/>
+										<Property Name="QFactorBand2" Type="Real32" Value="13.6"/>
+									</PropertyList>
+								</Effect>
+							</Custom>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<MusicSegment Name="space_soup_fullmix_60bpm_tail" ID="{710381E7-2EAB-4BC9-8AD4-2C09F38204FE}" ShortID="1015284886">
+							<PropertyList>
+								<Property Name="EndPosition" Type="Real64" Value="174000"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CF479F07-6E0B-4CFC-9837-1DCF7568E090}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicTrack Name="space_soup_fullmix_60bpm_tail" ID="{5BF1DC81-ED92-45F8-8C65-178AB636CAAB}" ShortID="460279728">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="space_soup_fullmix_60bpm_tail" ID="{CAE0DB1F-66A6-4CC6-9ADB-763948BA651E}" ShortID="961497385">
+											<Language>SFX</Language>
+											<AudioFile>space_soup_fullmix_60bpm_tail.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{DF185922-69DE-463C-A3F1-0E4976A095CA}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{BDB5FC45-39A3-48F1-A366-4DB8A1F779BE}">
+											<ClipList>
+												<MusicClip Name="space_soup_fullmix_60bpm_tail" ID="{FF207C3B-71D0-4184-A064-F48ED378FA6B}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="174000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="space_soup_fullmix_60bpm_tail" ID="{CAE0DB1F-66A6-4CC6-9ADB-763948BA651E}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+							</ChildrenList>
+							<CueList>
+								<MusicCue Name="Entry Cue" ID="{72E92AF5-B5EA-4DFD-A40E-136409A0152F}"/>
+								<MusicCue Name="Exit Cue" ID="{17A13A54-F56A-4FA2-BAA4-1ED6FE0DA4B4}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="1"/>
+										<Property Name="TimeMs" Type="Real64" Value="164000"/>
+									</PropertyList>
+								</MusicCue>
+							</CueList>
+						</MusicSegment>
+					</ChildrenList>
+					<TransitionList>
+						<MusicTransition Name="Root" ID="{CE213E9E-7E11-4991-B4CC-3BF06D3E03CB}">
+							<PropertyList>
+								<Property Name="IsFolder" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<MusicTransition Name="Transition" ID="{CAD12A47-67D1-48F5-AAD4-49CE791556B4}">
+									<TransitionInfo/>
+								</MusicTransition>
+							</ChildrenList>
+							<TransitionInfo/>
+						</MusicTransition>
+					</TransitionList>
+					<Playlist>
+						<MusicPlaylistItem Name="" ID="{B9FDF9C3-5397-47D5-822F-A8CA8BA20E65}" ShortID="1052482043">
+							<PropertyList>
+								<Property Name="LoopCount" Type="int16" Value="0"/>
+							</PropertyList>
+							<ChildrenList>
+								<MusicPlaylistItem Name="" ID="{22F1423F-50C2-4E0B-AB97-421364469273}" ShortID="722990598">
+									<PropertyList>
+										<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+									</PropertyList>
+									<SegmentRef Name="space_soup_fullmix_60bpm_tail" ID="{710381E7-2EAB-4BC9-8AD4-2C09F38204FE}"/>
+								</MusicPlaylistItem>
+							</ChildrenList>
+						</MusicPlaylistItem>
+					</Playlist>
+				</MusicPlaylistContainer>
+			</ChildrenList>
+		</WorkUnit>
 	</InteractiveMusic>
 </WwiseDocument>

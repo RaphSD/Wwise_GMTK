@@ -24,6 +24,7 @@
 				<Event Id="3465618802" Name="Play_Bounce" ObjectPath="\Events\Default Work Unit\Play_Bounce"/>
 				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump"/>
 				<Event Id="2734754760" Name="Play_Magnet" ObjectPath="\Events\Default Work Unit\Play_Magnet"/>
+				<Event Id="2932040671" Name="Play_Music" ObjectPath="\Events\Default Work Unit\Play_Music"/>
 				<Event Id="4215300671" Name="Play_NoJump" ObjectPath="\Events\Default Work Unit\Play_NoJump"/>
 				<Event Id="826685355" Name="Play_Voice_Die" ObjectPath="\Events\Default Work Unit\Play_Voice_Die"/>
 				<Event Id="963716355" Name="Play_Voice_Win" ObjectPath="\Events\Default Work Unit\Play_Voice_Win"/>
@@ -128,6 +129,10 @@
 				<File Id="949605517" Language="SFX">
 					<ShortName>JUMP-002.wav</ShortName>
 					<Path>SFX\JUMP-002_474E68A2.wem</Path>
+				</File>
+				<File Id="961497385" Language="SFX">
+					<ShortName>space_soup_fullmix_60bpm_tail.wav</ShortName>
+					<Path>SFX\space_soup_fullmix_60bpm_tail_E60452FC.wem</Path>
 				</File>
 				<File Id="962941939" Language="SFX">
 					<ShortName>BOUNCE-003.wav</ShortName>

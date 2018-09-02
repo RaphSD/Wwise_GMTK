@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{2A17B3AC-82B8-4C25-A586-0B8FCCF9F710}" SchemaVersion="89">
 	<GameParameters>
-		<WorkUnit Name="Default Work Unit" ID="{2A17B3AC-82B8-4C25-A586-0B8FCCF9F710}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{2A17B3AC-82B8-4C25-A586-0B8FCCF9F710}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="ResonanceFilter" ID="{BF957560-82B4-49DC-988E-5D121BFA1615}"/>
+			</ChildrenList>
+		</WorkUnit>
 	</GameParameters>
 </WwiseDocument>

@@ -9,6 +9,15 @@
 							<ObjectRef Name="System" ID="{5C8136DD-8340-462C-97B9-9F84FB6BA385}" WorkUnitID="{88876929-5BDE-454F-8260-2AF00A7144DB}"/>
 						</Reference>
 					</ReferenceList>
+					<ChildrenList>
+						<AuxBus Name="REVERB" ID="{C1B779BF-BF47-45E6-B434-288DD1DEF6E8}">
+							<ReferenceList>
+								<Reference Name="Effect0" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+									<ObjectRef Name="Space_Dreaming" ID="{4FF7C4B2-37B0-4DFF-8E8A-1420102AE2DD}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+								</Reference>
+							</ReferenceList>
+						</AuxBus>
+					</ChildrenList>
 				</Bus>
 				<Bus Name="Motion Factory Bus" ID="{2AF9B9C6-6EF1-46E9-B5F2-E30C9E602C74}">
 					<ReferenceList>

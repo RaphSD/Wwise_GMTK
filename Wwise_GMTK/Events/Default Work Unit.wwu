@@ -15,6 +15,30 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{810F2E56-7E50-4C54-ABFA-B49729CE7E12}" ShortID="933625004">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="38"/>
+								<Property Name="GameParameterValue" Type="Real64" Value="39"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ResonanceFilter" ID="{BF957560-82B4-49DC-988E-5D121BFA1615}" WorkUnitID="{2A17B3AC-82B8-4C25-A586-0B8FCCF9F710}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{2CBDF041-33DF-496C-B396-38C1D0E695EE}" ShortID="107456534">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="38"/>
+								<Property Name="Delay" Type="Real64" Value="1"/>
+								<Property Name="FadeTime" Type="Real64" Value="1"/>
+								<Property Name="GameParameterValue" Type="Real64" Value="100"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ResonanceFilter" ID="{BF957560-82B4-49DC-988E-5D121BFA1615}" WorkUnitID="{2A17B3AC-82B8-4C25-A586-0B8FCCF9F710}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="Play_Magnet" ID="{92B7D8F6-2C33-4F99-A1D1-06140E98033D}">
@@ -82,6 +106,20 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="NoJump" ID="{86B9202F-0EC5-4FC0-8425-7427749E2876}" WorkUnitID="{217D670F-8837-43EC-B969-20065DB5C469}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Music" ID="{97967EAB-E084-4591-90A6-A2ECC8E26B38}">
+					<ChildrenList>
+						<Action Name="" ID="{9D0AFF56-0727-419C-BD85-B2910724CC5C}" ShortID="887810465">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music" ID="{5F8C7503-E32E-4EDE-AF87-9580CE69A634}" WorkUnitID="{CA62A60D-407F-4E7F-B2DA-04C3085940F1}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

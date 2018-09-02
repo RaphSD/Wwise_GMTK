@@ -24,9 +24,14 @@
 										</ModifierInfo>
 									</ModifierList>
 								</Property>
+								<Property Name="UserAuxSendVolume0" Type="Real64">
+									<ValueList>
+										<Value>-16</Value>
+									</ValueList>
+								</Property>
 								<Property Name="Volume" Type="Real64">
 									<ValueList>
-										<Value>-6</Value>
+										<Value>-4</Value>
 									</ValueList>
 								</Property>
 							</PropertyList>
@@ -39,6 +44,9 @@
 								</Reference>
 								<Reference Name="OutputBus">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+								</Reference>
+								<Reference Name="UserAuxSend0">
+									<ObjectRef Name="REVERB" ID="{C1B779BF-BF47-45E6-B434-288DD1DEF6E8}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -135,6 +143,11 @@
 										</ModifierInfo>
 									</ModifierList>
 								</Property>
+								<Property Name="UserAuxSendVolume0" Type="Real64">
+									<ValueList>
+										<Value>-12</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -145,6 +158,9 @@
 								</Reference>
 								<Reference Name="OutputBus">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+								</Reference>
+								<Reference Name="UserAuxSend0">
+									<ObjectRef Name="REVERB" ID="{C1B779BF-BF47-45E6-B434-288DD1DEF6E8}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -241,6 +257,11 @@
 										</ModifierInfo>
 									</ModifierList>
 								</Property>
+								<Property Name="UserAuxSendVolume0" Type="Real64">
+									<ValueList>
+										<Value>-23</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -251,6 +272,9 @@
 								</Reference>
 								<Reference Name="OutputBus">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+								</Reference>
+								<Reference Name="UserAuxSend0">
+									<ObjectRef Name="REVERB" ID="{C1B779BF-BF47-45E6-B434-288DD1DEF6E8}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -347,6 +371,11 @@
 										</ModifierInfo>
 									</ModifierList>
 								</Property>
+								<Property Name="UserAuxSendVolume0" Type="Real64">
+									<ValueList>
+										<Value>-19</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -357,6 +386,9 @@
 								</Reference>
 								<Reference Name="OutputBus">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+								</Reference>
+								<Reference Name="UserAuxSend0">
+									<ObjectRef Name="REVERB" ID="{C1B779BF-BF47-45E6-B434-288DD1DEF6E8}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -434,6 +466,11 @@
 										</ModifierInfo>
 									</ModifierList>
 								</Property>
+								<Property Name="UserAuxSendVolume0" Type="Real64">
+									<ValueList>
+										<Value>-16</Value>
+									</ValueList>
+								</Property>
 								<Property Name="Volume" Type="Real64">
 									<ValueList>
 										<Value>-5</Value>
@@ -449,6 +486,9 @@
 								</Reference>
 								<Reference Name="OutputBus">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+								</Reference>
+								<Reference Name="UserAuxSend0">
+									<ObjectRef Name="REVERB" ID="{C1B779BF-BF47-45E6-B434-288DD1DEF6E8}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -695,9 +735,14 @@
 										</ModifierInfo>
 									</ModifierList>
 								</Property>
+								<Property Name="UserAuxSendVolume0" Type="Real64">
+									<ValueList>
+										<Value>-17</Value>
+									</ValueList>
+								</Property>
 								<Property Name="Volume" Type="Real64">
 									<ValueList>
-										<Value>-9</Value>
+										<Value>-1</Value>
 									</ValueList>
 								</Property>
 							</PropertyList>
@@ -707,6 +752,9 @@
 								</Reference>
 								<Reference Name="OutputBus">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
+								</Reference>
+								<Reference Name="UserAuxSend0">
+									<ObjectRef Name="REVERB" ID="{C1B779BF-BF47-45E6-B434-288DD1DEF6E8}" WorkUnitID="{26B01B18-A8D6-4EF8-87A1-6D537549977B}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
