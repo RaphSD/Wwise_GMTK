@@ -3,6 +3,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	826685355	Play_Voice_Die			\Default Work Unit\Play_Voice_Die	
 	963716355	Play_Voice_Win			\Default Work Unit\Play_Voice_Win	
 	1141136410	Play_Energy			\Default Work Unit\Play_Energy	
+	1699343283	Play_Music_Menu			\Default Work Unit\Play_Music_Menu	
 	2734754760	Play_Magnet			\Default Work Unit\Play_Magnet	
 	2932040671	Play_Music			\Default Work Unit\Play_Music	
 	3465618802	Play_Bounce			\Default Work Unit\Play_Bounce	
@@ -44,6 +45,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	949605517	JUMP-002	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\JUMP-002_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Jump\JUMP-002		12022
 	961497385	space_soup_fullmix_60bpm_tail	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\space_soup_fullmix_60bpm_tail_E60452FC.wem		\Interactive Music Hierarchy\Default Work Unit\Music\space_soup_fullmix_60bpm_tail\space_soup_fullmix_60bpm_tail		8956263
 	962941939	BOUNCE-003	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-003_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-003		13176
+	982603698	GMTK MENU	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\GMTK MENU_E60452FC.wem		\Interactive Music Hierarchy\Default Work Unit\Music_Menu\GMTK MENU\GMTK MENU		2491072
 	1008347342	pop_1	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\pop_1_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Repop\pop_1		11320
 	1027146539	BOUNCE-005	D:\Wwise_GMTK\Wwise_GMTK\Wwise_GMTK\.cache\Windows\SFX\BOUNCE-005_474E68A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone\Bounce\BOUNCE-005		14683
 

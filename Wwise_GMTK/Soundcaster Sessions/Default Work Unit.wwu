@@ -13,6 +13,10 @@
 							<ObjectRef Name="Play_Jump" ID="{7C8DD138-FB9D-4F42-8445-671392D1E949}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
 							<Position X="1" Y="0"/>
 						</Module>
+						<Module>
+							<ObjectRef Name="Play_Music_Menu" ID="{862DBFB8-442E-4F14-9171-647F68B0C27B}" WorkUnitID="{0133220E-FD97-4013-A051-98DBC1302B77}"/>
+							<Position X="2" Y="0"/>
+						</Module>
 					</ModuleList>
 					<RTPCValueList ShowAll="true">
 						<RTPCValue>

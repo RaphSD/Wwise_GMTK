@@ -9,6 +9,7 @@
 				<Property Name="Event Action List\{6D2D18A7-C024-4156-9B16-EFF269071FC3}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{7C8DD138-FB9D-4F42-8445-671392D1E949}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{818B4844-C6C5-45D1-AA1F-1637B7F567DE}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{862DBFB8-442E-4F14-9171-647F68B0C27B}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{92B7D8F6-2C33-4F99-A1D1-06140E98033D}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{92ED6ECB-77E2-4401-B4C2-CD06C8405391}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{97967EAB-E084-4591-90A6-A2ECC8E26B38}\x64_Expand States" Type="string" Value=""/>
@@ -33,6 +34,7 @@
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="Interactive Music\x64_{710381E7-2EAB-4BC9-8AD4-2C09F38204FE} - SegmentEditorZoomInfo" Type="string" Value="AAAAAADIJkAAAAAAAADwPxUvkEnxAhVAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAA"/>
 				<Property Name="Interactive Music\x64_{82948977-D388-43B6-AA93-973E0878B7C9} - SegmentEditorZoomInfo" Type="string" Value="AAAAAAAA8D8AAAAAAADwP0vUrkTtShZAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAA"/>
+				<Property Name="Interactive Music\x64_{D56249EA-839C-4E71-BB49-CF7CD595F7BE} - SegmentEditorZoomInfo" Type="string" Value="AAAAAAAA8D8AAAAAAADwP5DgPoL7CDBAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAA"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
 				<Property Name="MeterView\MeterMode1Viewpoint0" Type="int32" Value="1"/>
@@ -45,6 +47,7 @@
 				<Property Name="MonitoringManager\WatchMgr\x64_Watches" Type="string" Value=""/>
 				<Property Name="Music Transition List\{5F8C7503-E32E-4EDE-AF87-9580CE69A634}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Music Transition List\{81245AB4-E597-42C7-B02E-B687F8CDDD11}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{A7440DFB-F7C4-478A-9E6A-6CCA5E4B56E1}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="OverrideCacheFolder\Active" Type="bool" Value="False"/>
 				<Property Name="OverrideCacheFolder\Path" Type="string" Value=".cache"/>
 				<Property Name="OverrideOriginalFolder\Active" Type="bool" Value="False"/>
