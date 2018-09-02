@@ -654,6 +654,13 @@
 							</ActiveSourceList>
 						</Sound>
 						<Sound Name="Voice Die" ID="{5E166E93-E193-4728-B9EF-07B26618A867}" ShortID="908222895">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-3</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CF479F07-6E0B-4CFC-9837-1DCF7568E090}"/>
